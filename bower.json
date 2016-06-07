@@ -1,0 +1,22 @@
+{
+  "name": "amd-experiment",
+  "description": "AMD experiment",
+  "main": "index.js",
+  "authors": [
+    "Aaron Corso <aaron@corsoa.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "requirejs": "^2.2.0",
+    "jquery": "^2.2.4"
+  }
+}
